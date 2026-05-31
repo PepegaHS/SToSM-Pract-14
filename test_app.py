@@ -1,3 +1,4 @@
+"""Тесты"""
 import pytest
 from app import app
 
